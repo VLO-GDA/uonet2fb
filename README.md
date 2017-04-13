@@ -1,6 +1,9 @@
 # UONET TO FB
 
 A simple script utilizing [uonet-sdk](https://github.com/VLO-GDA/uonet-sdk) to post changes in the timeline and exams on a FB group.
+i
+
+![](./img/post.png)
 
 ## Setting up:
 
